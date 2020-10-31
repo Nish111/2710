@@ -3,5 +3,3 @@ This is a normal file. First one for this demo
 Doing edit on GitHub directly. Will try to pull then
 
 Editing this file on 31/10/20 .. try pulling now... and will pull in local repo
-
-Another edit to check for merge issue
